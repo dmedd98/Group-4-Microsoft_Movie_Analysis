@@ -1,14 +1,15 @@
-# Title
+# Microsoft Movie Studio Data Analysis
 
-**Authors**: Student1, Student2
+**Authors**: Dillon Medd, Avi Rubin, Angie Rincon
+
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+This project explores some of the decisions that Microsoft will have to make as a new competitior in the movie industry. Descriptive analysis of data from box office movies from 2010 - 2019 shows that month of release, genre and established fanbase all have an impact on the revenue a movie generate. The Microsoft Movie Studio can benefit from this analysis to produce movies with high returns on investment. 
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ***
 Questions to consider:
@@ -19,7 +20,7 @@ Questions to consider:
 
 ## Data
 
-Describe the data being used for this project.
+This analysis includes Data scraped from BoxOfficeMojo.com, the-numbers.com and IMDB.com. BoxOfficeMojo.com lists all movies titles and their corresponding release date as well as gross revenue. The-numbers.com database includes movie titles, production budget as well as domestic and worldwide gross revenue. IMDB provides an overview of information about each movie.
 
 ***
 Questions to consider:
@@ -31,7 +32,9 @@ Questions to consider:
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+This project uses descriptive analysis, broken down by month as well as seperated by budget-size and genre. This provides a useful overview of which months, budget-size and genres have resulted in finacial sucesss over the 2010s decade. 
+
+
 
 ***
 Questions to consider:
