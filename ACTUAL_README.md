@@ -33,7 +33,7 @@ This project uses descriptive analysis, broken down by month as well as seperate
 ##43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
 
 ![Horror](./images/Horror.png)
-##Of films with an ROI of 1000% ???? were horror/thriller.
+##45% Of films with an ROI of 1000% since 2010 were horror/thriller.
 
 ![Franchise](./images/Franchise.png)
 ##Of the high budget films that were a success, 46 were part of a franchise.
