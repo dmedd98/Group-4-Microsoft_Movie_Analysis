@@ -27,16 +27,16 @@ This project uses descriptive analysis, broken down by month as well as seperate
 ## Results
 
 ![avi_chart](./images/avi_chart.png)
-## Results**15.49% of all movies launched in December were top grossing movies
+##15.49% of all movies launched in December were top grossing movies
 
 ![ROI](./images/ROI.png)
-**43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
+##43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
 
 ![Horror](./images/Horror.png)
-**Of films with an ROI of 1000% ???? were horror/thriller.
+##Of films with an ROI of 1000% ???? were horror/thriller.
 
 ![Franchise](./images/Franchise.png)
-**Of the high budget films that were a success, 46 were part of a franchise.
+##Of the high budget films that were a success, 46 were part of a franchise.
 
 
 ## Conclusions
