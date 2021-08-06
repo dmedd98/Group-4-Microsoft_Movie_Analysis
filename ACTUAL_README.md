@@ -27,7 +27,7 @@ This project uses descriptive analysis, broken down by month as well as seperate
 ## Results
 
 ![avi_chart](./images/avi_chart.png)
-**15.49% of all movies launched in December were top grossing movies
+## Results**15.49% of all movies launched in December were top grossing movies
 
 ![ROI](./images/ROI.png)
 **43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
