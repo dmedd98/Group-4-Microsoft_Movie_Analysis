@@ -21,40 +21,48 @@ This analysis includes data from the-numbers.com, IMDB.com and scraped from BoxO
 
 ## Methods
 
-This project uses descriptive analysis, broken down by month as well as seperated by budget-size and genre. This provides a useful overview of which months, budget-sizes and genres have resulted in finacial sucesss from 2010-2019.
+This project uses descriptive analysis, broken down by month as well as separated by budget-size and genre. This provides a useful overview of which months, budget-sizes, and genres have resulted in finacial sucesss from 2010-2019.
 
 
 ## Results
 
+## 15.49% of all movies launched in December were top grossing movies.
 ![avi_chart](./images/avi_chart.png)
-##15.49% of all movies launched in December were top grossing movies
 
+
+## 43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
 ![ROI](./images/ROI.png)
-##43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
 
+
+## 45% Of films with an ROI of 1000% since 2010 were horror/thriller.
 ![Horror](./images/Horror.png)
-##45% Of films with an ROI of 1000% since 2010 were horror/thriller.
 
+
+
+## Of the high budget films that were a success, 46 were part of a franchise.
 ![Franchise](./images/Franchise.png)
-##Of the high budget films that were a success, 46 were part of a franchise.
 
 
-## Conclusions
+
+
+
+## Conclusions and Recommendations
 
 This analysis leads to three recommendations for maximizing Microsoft's profits in the movie industry.
 
-    1. Aim to release big movies in December and November. Our analysis shows that movies released in the last two months of the year are more likely to reach top 200 billboard status for the year.
-    2. Don't produce a high budget film without an assured audience. If Microsoft decides to make a film with a production budget of $150 Million or more, it should be a sequel of a series that has proven popularity and profitability.
-    3. Utilize the production of horror/thriller movies. Due to its low budget nature, Horror/Thriller films make up 45% of the films with the highest ROI. It is clearly the genre that can result in the biggest 'bang for your buck.' 
+1. Aim to release big movies in December and November. Our analysis shows that movies released in the last two months of the year are more likely to reach top 200 billboard status for the year.
+2. Produce a high budget film with an assured audience. If Microsoft decides to make a film with a production budget of $150 Million or more, it should be a sequel of a series that has proven popularity and profitability.
+3. Utilize the production of horror/thriller movies. Due to its low budget nature, Horror/Thriller films make up 45% of the films with the highest ROI. It is clearly the genre that can result in the biggest 'bang for your buck.' 
 
 
 ## For More Information
 
 Please review our full analysis in [ROI Genre](./ROI\Genre.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact **Dillon Medd at [dillonmedd1@gmail.com](mailto:dillonmedd@gmail.com) 
-                                               Avi Rubin at [avirubin930@gmail.com](mailto:avirubin930@gmail.com)
-                                               Angie Rincon at [angiekay.rincon@gmail.com](mailto:angiekay.rincon@gmail.com)
+For any additional questions, please contact:
+* Dillon Medd at [dillonmedd1@gmail.com](mailto:dillonmedd@gmail.com) 
+* Avi Rubin at [avirubin930@gmail.com](mailto:avirubin930@gmail.com)
+* Angie Rincon at [angiekay.rincon@gmail.com](mailto:angiekay.rincon@gmail.com)
 
 ## Repository Structure
 
