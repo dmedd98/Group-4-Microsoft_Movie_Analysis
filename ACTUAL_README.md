@@ -57,7 +57,7 @@ This analysis leads to three recommendations for maximizing Microsoft's profits 
 
 ## For More Information
 
-Please review our full analysis in [ROI Genre](./ROI\Genre.ipynb) or our [presentation](./Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./notebooks/Cleaned_December_Movie_Launch.ipynb) or review this [presentation](./Group_ 4_Microsoft_Movie_Analysis/Group_ 4_Microsoft_Movie_Analysis.pdf).
 
 For any additional questions, please contact:
 * Dillon Medd at [dillonmedd1@gmail.com](mailto:dillonmedd@gmail.com) 
