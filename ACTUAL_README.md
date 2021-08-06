@@ -1,4 +1,4 @@
-![top](./images/top.jpg)
+![top](./images/Top.jpg)
 
 # Microsoft Movie Studio Data Analysis
 
