@@ -57,7 +57,7 @@ This analysis leads to three recommendations for maximizing Microsoft's profits 
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./notebooks/Cleaned_December_Movie_Launch.ipynb) or review this [presentation](./Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Movie_Analysis.ipynb) or review this [presentation](./Presentation.pdf).
 
 For any additional questions, please contact:
 * Dillon Medd at [dillonmedd1@gmail.com](mailto:dillonmedd@gmail.com) 
@@ -70,7 +70,7 @@ For any additional questions, please contact:
 
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Movie_Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-├── Movie_Project_Presentation.pdf      <- PDF version of project presentation
+├── Presentation.pdf                    <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
