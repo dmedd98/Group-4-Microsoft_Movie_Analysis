@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project explores some of the decisions that Microsoft will have to make as a new competitior in the movie industry. Descriptive analysis of data from box office movies from 2010 - 2019 shows that month of release, genre and established fanbase all have an impact on the revenue a movie generates. The Microsoft Movie Studio can benefit from this analysis to produce movies with high returns on investment. 
+This project explores some of the decisions that Microsoft will have to make as a new competitior in the movie industry. Descriptive analysis of data from box office movies from 2010 - 2019 shows that month of release, genre, and established fanbase all have an impact on the revenue a movie generates. The Microsoft Movie Studio can benefit from this analysis to produce movies with high returns on investment. 
 
 ## Business Problem
 
@@ -16,7 +16,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ## Data
 
-This analysis includes data from the-numbers.com, IMDB.com and scraped from BoxOfficeMojo.com. BoxOfficeMojo.com lists all movie titles and their corresponding release dates as well as gross revenue. The-numbers.com database includes movie titles, production budget as well as domestic and worldwide gross revenue. IMDB provides an overview of information about each movie.
+This analysis includes data from the-numbers.com, IMDB.com, and scraped from BoxOfficeMojo.com. BoxOfficeMojo.com lists all movie titles and their corresponding release dates as well as gross revenue. The-numbers.com database includes movie titles, production budget, as well as domestic and worldwide gross revenue. IMDB provides an overview of information about each movie.
 
 
 ## Methods
