@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project explores some of the decisions that Microsoft will have to make as a new competitior in the movie industry. Descriptive analysis of data from box office movies from 2010 - 2019 shows that month of release, genre and established fanbase all have an impact on the revenue a movie generate. The Microsoft Movie Studio can benefit from this analysis to produce movies with high returns on investment. 
+This project explores some of the decisions that Microsoft will have to make as a new competitior in the movie industry. Descriptive analysis of data from box office movies from 2010 - 2019 shows that month of release, genre and established fanbase all have an impact on the revenue a movie generates. The Microsoft Movie Studio can benefit from this analysis to produce movies with high returns on investment. 
 
 ## Business Problem
 
@@ -16,25 +16,26 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ## Data
 
-This analysis includes Data scraped from BoxOfficeMojo.com, the-numbers.com and IMDB.com. BoxOfficeMojo.com lists all movies titles and their corresponding release date as well as gross revenue. The-numbers.com database includes movie titles, production budget as well as domestic and worldwide gross revenue. IMDB provides an overview of information about each movie.
+This analysis includes data from the-numbers.com, IMDB.com and scraped from BoxOfficeMojo.com. BoxOfficeMojo.com lists all movie titles and their corresponding release dates as well as gross revenue. The-numbers.com database includes movie titles, production budget as well as domestic and worldwide gross revenue. IMDB provides an overview of information about each movie.
 
 
 ## Methods
 
-This project uses descriptive analysis, broken down by month as well as seperated by budget-size and genre. This provides a useful overview of which months, budget-size and genres have resulted in finacial sucesss over the 2010s decade. 
+This project uses descriptive analysis, broken down by month as well as seperated by budget-size and genre. This provides a useful overview of which months, budget-sizes and genres have resulted in finacial sucesss from 2010-2019.
 
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
-
 15.49% of all movies launched in December were top grossing movies
 ![avi_chart](./images/avi_chart.png)
 
-We found that 43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
-Of films with an ROI of 1000% ???? were horror/thriller.
-Of the high budget films that were a success, ?? were part of a franchise.
+43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
+![ROI](./images/ROI.png)
 
+Of films with an ROI of 1000% ???? were horror/thriller.
+![Horror](./images/Horror.png)
+Of the high budget films that were a success, 46 were part of a franchise.
+![Franchise](./images/Franchise.png)
 
 ## Conclusions
 
