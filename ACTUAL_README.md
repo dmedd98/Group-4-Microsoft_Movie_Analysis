@@ -47,7 +47,11 @@ Questions to consider:
 Present your key results. For Phase 1, this will be findings from your descriptive analysis.
 
 15.49% of all movies launched in December were top grossing movies
-![avi_chart](.images/avi_chart.png)
+![avi_chart](./images/avi_chart.png)
+
+We found that 43.4% of movies released with a budget over 1.5 million had an ROI over 250%.
+Of films with an ROI of 1000% ???? were horror/thriller.
+Of the high budget films that were a success, ?? were part of a franchise.
 ***
 Questions to consider:
 * How do you interpret the results?
