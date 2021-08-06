@@ -46,6 +46,8 @@ Questions to consider:
 
 Present your key results. For Phase 1, this will be findings from your descriptive analysis.
 
+15.49% of all movies launched in December were top grossing movies
+![avi_chart](.images/avi_chart.png)
 ***
 Questions to consider:
 * How do you interpret the results?
@@ -62,7 +64,7 @@ Here is an example of how to embed images from your sub-folder:
 This analysis leads to three recommendations for maximizing Microsoft's profits in the movie industry.
 
     1. Aim to release big movies in December and November. Our analysis shows that movies released in the last two months of the year are more likely to reach top 200 billboard status for the year.
-    2. Don't produce a high budget film without an assured audience. If Microsoft decides to make a film with a production budget of 150 Million or more, it should be a sequel of a series that has proven popularity and profitability.
+    2. Don't produce a high budget film without an assured audience. If Microsoft decides to make a film with a production budget of $150 Million or more, it should be a sequel of a series that has proven popularity and profitability.
     3. Utilize the production of horror/thriller movies. Due to its low budget nature, Horror/Thriller films make up 45% of the films with the highest ROI. It is clearly the genre that can result in the biggest 'bang for your buck.' 
 
 ***
