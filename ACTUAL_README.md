@@ -86,18 +86,11 @@ For any additional questions, please contact **name & email, name & email**
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
-├── __init__.py                         <- .py file that signals to python these folders contain packages
+
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── code
-│   ├── __init__.py                     <- .py file that signals to python these folders contain packages
-│   ├── visualizations.py               <- .py script to create finalized versions of visuals for project
-│   ├── data_preparation.py             <- .py script used to pre-process and clean data
-│   └── eda_notebook.ipynb              <- Notebook containing data exploration
+├── Movie_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── Movie_Project_Presentation.pdf         <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
