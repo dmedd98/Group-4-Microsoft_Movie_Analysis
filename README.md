@@ -39,7 +39,7 @@ This project uses descriptive analysis, broken down by month as well as separate
 
 
 
-## Of the high budget films that were a success, 46% were part of a franchise.
+## Of the high budget films that were a success, 80% were part of a franchise.
 ![Franchise](./images/Franchise.png)
 
 
